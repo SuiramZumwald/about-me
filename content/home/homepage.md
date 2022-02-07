@@ -45,8 +45,8 @@ Maecenas a varius odio egestas auctor. Praesent facilisis, ex a gravida ultricie
 
 ## Get in Touch
 
-[{{< icon name="envelope" pack="fas" >}}Email](mailto:me@example.com)
-[{{< icon name="twitter" pack="fab" >}}Twitter](https://twitter.com/wowchemy)  
-{{< icon name="weixin" pack="fab" >}}微信用户名  
+[{{< icon name="envelope" pack="fas" >}}Email](mailto:me@pm.me)
+[{{< icon name="twitter" pack="fab" >}}Twitter](https://twitter.com/Marius_ZW)  
+
 
 
