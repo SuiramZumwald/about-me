@@ -64,6 +64,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 [{{< icon name="twitter" pack="fab" >}}Twitter](https://twitter.com/wowchemy)  
 {{< icon name="weixin" pack="fab" >}}微信用户名  
 
-## Credits
 
-[Demo background image](https://unsplash.com/photos/mNSOLgnDGzA)
