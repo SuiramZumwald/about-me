@@ -32,11 +32,11 @@ advanced:
   css_class: fullscreen
 ---
 
-## My Mission
+## About Me
 
 Use this area to speak to your mission. Maecenas a varius odio egestas auctor. Praesent facilisis, ex a gravida ultricies, quam sed magna placerat eros, et vehicula lectus ligula id dui. Aliquam uto cursus velit ut eros lorem ipsum ullamcorper iaculis.
 
-## Specialties
+## Expertise 
 
 Analytics & Data, Leadership, Programming, Strategic Planning, Writing & Editing
 
