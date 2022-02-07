@@ -35,14 +35,6 @@ advanced:
 ## About Me
 #Maecenas a varius odio egestas auctor. Praesent facilisis, ex a gravida ultricies, quam sed magna placerat eros, et vehicula lectus ligula id dui. Aliquam uto #cursus velit ut eros lorem ipsum ullamcorper iaculis.
 
-# ## Expertise 
-
-Maecenas a varius odio egestas auctor. Praesent facilisis, ex a gravida ultricies, quam sed magna placerat eros, et vehicula lectus ligula id dui. Aliquam uto cursus velit ut eros lorem ipsum ullamcorper iaculis.
-
-## Experience
-
-Maecenas a varius odio egestas auctor. Praesent facilisis, ex a gravida ultricies, quam sed magna placerat eros, et vehicula lectus ligula id dui. Aliquam uto cursus velit ut eros lorem ipsum ullamcorper iaculis.
-
 ## Get in Touch
 
 [{{< icon name="envelope" pack="fas" >}}Email](mailto:me@pm.me)
