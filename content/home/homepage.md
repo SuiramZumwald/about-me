@@ -7,8 +7,8 @@ widget: blank  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
 
-title: "👋 Hello World"
-subtitle: ""
+title: "👋 Hi"
+https://www.reida.ch/images/REIDA_pdf/REIDA_CO2_Benchmark_Flyer_2022.pdf subtitle: ""
 
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
